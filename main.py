@@ -1,5 +1,5 @@
 # Coded by Berna Bas
-# 29.12.2018
+# 8.10.2019
 # This code blurs marked characters with #. It is coded for a psychological research. You can use the code or customize.
 
 
